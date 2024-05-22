@@ -1,0 +1,15 @@
+{% if cookiecutter.language == "english" %}
+In this folder you can store data necessary for your application, such as configuration files, local databases, etc.
+
+If the application requires it, consider creating the subfolders:
+-db/
+...
+
+{% elif cookiecutter.language == "español" %}
+En esta carpeta puede almacenar datos necesarios para su aplicación, como archivos de configuración, bases de datos locales, etc.
+
+Si la aplicación lo requiere, considere crear las subcarpetas:
+-db/
+...
+
+{% endif %}

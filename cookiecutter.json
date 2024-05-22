@@ -1,0 +1,8 @@
+{
+  "language": ["english", "español"],
+  "project_name": "Project-Name-On-Github",
+  "author_name": "Your Name",
+  "project_short_description": "A short description in README.md",
+  "python_version": "3.8",
+  "license": ["MIT", "Unlicense"]
+}

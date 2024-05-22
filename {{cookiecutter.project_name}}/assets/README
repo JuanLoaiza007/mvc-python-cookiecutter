@@ -1,0 +1,21 @@
+{% if cookiecutter.language == "english" %}
+This folder is used to store static files, such as images, audio, and general multimedia. They are files that are not generated dynamically by the application, but are presented as is to the user.
+
+If the application requires it, consider creating the subfolders:
+
+- icons/
+- images/
+- audios/
+  ...
+
+{% elif cookiecutter.language == "español" %}
+Esta carpeta se utiliza para almacenar archivos estáticos, como imágenes, audio y multimedia generales. Estos archivos no son generados dinámicamente por la aplicación, pero se presentan como están a la vista del usuario.
+
+Si la aplicación lo requiere, considere crear las subcarpetas:
+
+- icons/
+- images/
+- audios/
+  ...
+
+{% endif %}
