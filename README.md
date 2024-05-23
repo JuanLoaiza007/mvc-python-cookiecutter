@@ -1,13 +1,14 @@
 # mcv-python-cookiecutter
 
 <p align="center">
-⚠️ This template is under development, everything is subject to change. ⚠️
+⚠️ This template is personal and under development, everything is subject to change. ⚠️
 </p>
 
 ## Description
 
 This repository contains a Cookiecutter template for initializing Python projects with a focus on the Model-View-Controller (MVC) design pattern. The template supports project initialization and includes configurations for common project needs.
-Features
+
+## Features
 
 - Supports project setup in **English and Spanish**.
 - Pre-configured structure for MVC pattern.
@@ -35,7 +36,7 @@ pip install cookiecutter
 cookiecutter https://github.com/JuanLoaiza007/cookiecutter-python-mvc-template.git
 ```
 
-Follow the prompts to customize your new project.
+3. Follow the prompts to customize your new project.
 
 ## Project Structure
 
